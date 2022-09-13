@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="359e003a-e9b6-4801-b206-59d5af5d733f" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ProjectId" id="28xTxhzHwLnxZjceZq1UROZkYXH" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="run.code.analysis.last.selected.profile" value="aDefault" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RunManager">
+    <configuration name="app.py" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="CODE" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="C:\Users\vk nivedha\anaconda3\python.exe" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/app.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.app.py" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="359e003a-e9b6-4801-b206-59d5af5d733f" name="Default Changelist" comment="" />
+      <created>1652157484523</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1652157484523</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="372" y="0" key="#app" timestamp="1652166402188">
+      <screen x="0" y="0" width="1280" height="720" />
+    </state>
+    <state x="361" y="0" key="#app.py" timestamp="1652166426693">
+      <screen x="0" y="0" width="1280" height="720" />
+    </state>
+    <state x="361" y="0" key="#app.py/0.0.1280.720@0.0.1280.720" timestamp="1652166426693" />
+    <state x="372" y="0" key="#app/0.0.1280.720@0.0.1280.720" timestamp="1652166402188" />
+    <state x="399" y="232" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1" timestamp="1652169917050">
+      <screen x="0" y="0" width="1280" height="720" />
+    </state>
+    <state x="399" y="232" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1/0.0.1280.720@0.0.1280.720" timestamp="1652169917050" />
+    <state width="1259" height="176" key="GridCell.Tab.0.bottom" timestamp="1654231213721">
+      <screen x="0" y="0" width="1280" height="720" />
+    </state>
+    <state width="1259" height="176" key="GridCell.Tab.0.bottom/0.0.1280.720@0.0.1280.720" timestamp="1654231213721" />
+    <state width="1259" height="176" key="GridCell.Tab.0.center" timestamp="1654231213721">
+      <screen x="0" y="0" width="1280" height="720" />
+    </state>
+    <state width="1259" height="176" key="GridCell.Tab.0.center/0.0.1280.720@0.0.1280.720" timestamp="1654231213721" />
+    <state width="1259" height="176" key="GridCell.Tab.0.left" timestamp="1654231213721">
+      <screen x="0" y="0" width="1280" height="720" />
+    </state>
+    <state width="1259" height="176" key="GridCell.Tab.0.left/0.0.1280.720@0.0.1280.720" timestamp="1654231213721" />
+    <state width="1259" height="176" key="GridCell.Tab.0.right" timestamp="1654231213721">
+      <screen x="0" y="0" width="1280" height="720" />
+    </state>
+    <state width="1259" height="176" key="GridCell.Tab.0.right/0.0.1280.720@0.0.1280.720" timestamp="1654231213721" />
+    <state width="1259" height="220" key="GridCell.Tab.1.bottom" timestamp="1652687960067">
+      <screen x="0" y="0" width="1280" height="720" />
+    </state>
+    <state width="1259" height="220" key="GridCell.Tab.1.bottom/0.0.1280.720@0.0.1280.720" timestamp="1652687960067" />
+    <state width="1259" height="220" key="GridCell.Tab.1.center" timestamp="1652687960067">
+      <screen x="0" y="0" width="1280" height="720" />
+    </state>
+    <state width="1259" height="220" key="GridCell.Tab.1.center/0.0.1280.720@0.0.1280.720" timestamp="1652687960067" />
+    <state width="1259" height="220" key="GridCell.Tab.1.left" timestamp="1652687960067">
+      <screen x="0" y="0" width="1280" height="720" />
+    </state>
+    <state width="1259" height="220" key="GridCell.Tab.1.left/0.0.1280.720@0.0.1280.720" timestamp="1652687960067" />
+    <state width="1259" height="220" key="GridCell.Tab.1.right" timestamp="1652687960067">
+      <screen x="0" y="0" width="1280" height="720" />
+    </state>
+    <state width="1259" height="220" key="GridCell.Tab.1.right/0.0.1280.720@0.0.1280.720" timestamp="1652687960067" />
+    <state x="142" y="4" key="SettingsEditor" timestamp="1652709399800">
+      <screen x="0" y="0" width="1280" height="720" />
+    </state>
+    <state x="142" y="4" key="SettingsEditor/0.0.1280.720@0.0.1280.720" timestamp="1652709399800" />
+    <state x="341" y="186" key="com.intellij.ide.util.TipDialog" timestamp="1652519997855">
+      <screen x="0" y="0" width="1280" height="720" />
+    </state>
+    <state x="341" y="186" key="com.intellij.ide.util.TipDialog/0.0.1280.720@0.0.1280.720" timestamp="1652519997855" />
+  </component>
+</project>
